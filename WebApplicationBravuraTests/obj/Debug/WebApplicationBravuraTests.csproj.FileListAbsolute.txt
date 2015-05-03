@@ -1,0 +1,7 @@
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraTests\bin\Debug\WebApplicationBravuraTests.dll
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraTests\bin\Debug\WebApplicationBravuraTests.pdb
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraTests\bin\Debug\WebApplicationBravuraBuisinessLayer.dll
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraTests\bin\Debug\WebApplicationBravuraBuisinessLayer.pdb
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraTests\obj\Debug\WebApplicationBravuraTests.csprojResolveAssemblyReference.cache
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraTests\obj\Debug\WebApplicationBravuraTests.dll
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraTests\obj\Debug\WebApplicationBravuraTests.pdb

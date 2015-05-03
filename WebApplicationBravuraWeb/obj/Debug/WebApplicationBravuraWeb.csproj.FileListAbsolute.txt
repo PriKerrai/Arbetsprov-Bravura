@@ -1,0 +1,8 @@
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraWeb\bin\WebApplicationBravuraWeb.dll.config
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraWeb\bin\WebApplicationBravuraWeb.dll
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraWeb\bin\WebApplicationBravuraWeb.pdb
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraWeb\bin\WebApplicationBravuraBuisinessLayer.dll
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraWeb\bin\WebApplicationBravuraBuisinessLayer.pdb
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraWeb\obj\Debug\WebApplicationBravuraWeb.csprojResolveAssemblyReference.cache
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraWeb\obj\Debug\WebApplicationBravuraWeb.dll
+C:\Users\Kerrai\documents\visual studio 2013\Projects\WebApplicationBravura\WebApplicationBravuraWeb\obj\Debug\WebApplicationBravuraWeb.pdb
